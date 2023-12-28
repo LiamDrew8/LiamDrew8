@@ -12,6 +12,7 @@ We represented our text reviews with BERT embeddings and used Logistic Regressio
 To see some of my work in COMP40: Machine Structure and Assembly Language Programming, please see the following project:
 
 [Profiling a Universal Machine](https://github.com/LiamDrew8/Profiling_HW7)
+
 In this project, my partner and I profiled a Universal Machine emulator written in C. We had written this UM emulator in a previous
 assignment and profiled it here to compute faster. We inspected the assembly code produced by compiling our UM and found opportunities
 to make the UM faster with more efficient use of registers.
