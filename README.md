@@ -3,7 +3,8 @@
 Welcome to my GitHub.
 
 To see my work with Machine Learning, please see the following project:
-[Classifying Sentiment]([url](https://github.com/LiamDrew8/ClassifyingSentiment))
+
+[Classifying Sentiment]([https://github.com/LiamDrew8/ClassifyingSentiment])
 In this project, my partner and I classified product reviews as having either a positive or negative sentiment.
 We represented our text reviews with BERT embeddings and used Logistic Regression to classify reviews as positive or negative.
 
