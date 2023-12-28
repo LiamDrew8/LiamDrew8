@@ -10,6 +10,7 @@ In this project, my partner and I classified product reviews as having either a 
 We represented our text reviews with BERT embeddings and used Logistic Regression to classify reviews as positive or negative.
 
 
+
 To see some of my work in COMP40: Machine Structure and Assembly Language Programming, please see the following project:
 
 [Profiling a Universal Machine](https://github.com/LiamDrew8/Profiling_HW7)
